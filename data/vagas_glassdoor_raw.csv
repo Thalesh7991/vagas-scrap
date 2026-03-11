@@ -1,0 +1,629 @@
+site_da_vaga,link_site,link_origem,data_publicacao,data_expiracao,data_coleta,posicao,senioridade,titulo_da_vaga,nome_empresa,cidade,estado,modalidade,contrato,regime,pcd,codigo_vaga,descricao,skills
+Glassdoor,"https://www.glassdoor.com.br/job-listing/analista-de-geoprocessamento-e-aerolevantamentos-projeta-sustentavel-ltda-JV_IC2514646_KO0,48_KE49,73.htm?jl=1009398404533",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=000001922909571e9616ac67615e3534&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_fd21c82b&cb=1727265331088&jobListingId=1009398404533&jrtk=5-yul1-3-1i8kgilq6jn3t801,2024-09-07,,2024-09-25,Geoprocessamento,,Analista de Geoprocessamento e Aerolevantamentos,PROJETA SUSTENTAVEL LTDA,"Belo Horizonte, Minas Gerais",MG,,,,,1009398404533,"O Analista de Geoprocessamento e Aerolevantamentos é o profissional que irá realizar análises de dados geoespaciais em ambienta GIS, manuseio e produção de mapas temáticos, bases cartográficas e topográficas. E deverá portanto possuir conhecimentos técnicos e habilidades em programação, bases de dados e geoestatística, geografia aplicada à área ambiental, topografia, capacidade resolutiva e proatividade, dentre outras.
+Dentre as suas principais atividades estão:
+Elaboração e formatação de base de dados;
+Análise de dados geoespaciais;
+Produção de mapas temáticos diversos;
+Realização de aerolevantamentos com VANT;
+Processamento de dados fotogramétricos;
+Produção de dados topográficos a partir de orthophoto;
+Análises geoespaciais e produção de dados ambientais;
+Elaboração de relatórios técnicos;",['GIS']
+Glassdoor,"https://www.glassdoor.com.br/job-listing/analista-de-geoprocessamento-brintell-solucoes-tecnologicas-sociedade-limitada-JV_IC2494161_KO0,28_KE29,78.htm?jl=1009386200405",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&tgt=APPLY_START&s=344&guid=0000019229099bdfb9a403dbd23cc293&src=GD_JOB_VIEW&t=NS&vt=w&ea=1&cs=1_c72ab324&cb=1727265348700&jobListingId=1009386200405&jrtk=5-yul1-3-1i8kgj7152gdg001,2024-08-30,,2024-09-25,Geoprocessamento,,Analista de Geoprocessamento,BRINTELL SOLUCOES TECNOLOGICAS SOCIEDADE LIMITADA,"Brasília, Distrito Federal",Distrito Federal,,,,,1009386200405,"Buscamos um profissional inovador, comprometido e com expertise em geoprocessamento para compor o time.
+Responsabilidades:
+Fornecer suporte técnico e analíticos para projetos e iniciativas relacionados à geografia, cartografia, planejamento urbano, meio ambiente, recursos naturais, agronegócio e outras áreas.
+Elaborar e desenvolver mapas temáticos através de ferramentas GIS, com a finalidade de espacializar e analisar os dados auxiliando na tomada de decisões das áreas clientes;
+Coletar, organizar e processar dados geoespaciais a partir de diferentes fontes, como imagens de satélite, fotografias aéreas, levantamentos topográficos e dados cadastrais;
+Utilizando softwares de geoprocessamento, como Sistemas de Informações Geográficas (SIG) e ferramentas de sensoriamento remoto, para manipular, analisar e visualizar dados espaciais.
+Desenvolver e implementar procedimentos de geoprocessamento para produção de mapas, modelos digitais de terreno, análises de relevo, zoneamento territorial e outras aplicações.
+Realizar análises espaciais para identificar padrões, tendências e relações entre variáveis geográficas, utilizando técnicas como interpolação, sobreposição de camadas, análise de redes e modelagem espacial.
+Elaborar relatórios técnicos, mapas temáticos e visualizações gráficas para comunicar resultados de análises espaciais e apresentar informações geográficas de forma clara e compreensível.
+Colaborar com equipes multidisciplinares, fornecendo suporte técnico em projetos que envolvem aspectos geográficos e espaciais.
+Manter-se atualizado(a) sobre as tendências, tecnologias e metodologias de geoprocessamento, participação de cursos, conferências e eventos relacionados à área.
+
+Diferencial:
+
+Ter tido experiência em grandes projetos;
+Ter tido experiência em projetos no segmento de energia, agro, tecnologia;
+Ter domínio da ferramenta Arc Gis;
+Agilidade de aprendizagem;
+Ter flexibilidade e facilidade para adaptação a mudanças quando necessário.","['ArcGIS', 'GIS']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/desenvolvedor-python-s%C3%AAnior-tinnova-JV_KO0,27_KE28,35.htm?jl=1009453039737",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&tgt=APPLY_START&s=344&guid=000001922909ea65917611da3b799eca&src=GD_JOB_VIEW&t=NS&vt=w&ea=1&cs=1_f1b9665f&cb=1727265368818&jobListingId=1009453039737&jrtk=5-yul1-3-1i8kgjqkmgedt801,2024-09-19,,2024-09-25,Geoprocessamento,,Desenvolvedor Python Sênior,Tinnova,,,Trabalho remoto,,,,1009453039737,"Estamos em busca de alguém especial para vir com a gente em mais um desafio!
+
+Temos uma superposição para um Desenvolvedor Python Sênior que seja criativo, proativo, que goste de desenvolvimento ágil e de buscar e dividir conhecimentos. Se você é essa pessoa e gosta de atuar em projetos desafiadores, com o objetivo de fazer a diferença na vida das pessoas, este é o seu lugar!
+
+
+Requisitos e Qualificações
+
+Superior em Engenharia da Computação, Sistemas de Informação ou áreas
+
+Conhecimento obrigatório em Python, Django, Django Rest Framework, Javascript, Node, PostgreSQL (postgis), Docker e Linux
+
+Diferenciais
+
+Ter Conhecimento em Agronegócios, Geoprocessamento com Django (GeoDjango);
+
+MapServer e/ou GeoServer, Adonisjs, React e Google Earth Engine.
+
+Informações importantes:
+
+Modelo de contratação: PJ
+Início: Imediato
+Modelo de trabalho: 100% remoto
+
+
+Oferecemos para essa posição:
+
+Modelo de contratação: PJ;
+
+Day Off de aniversário;
+
+Férias Remuneradas de 15 dias;
+
+Plano de saúde;
+
+Assistência Odontológica.","['Node.js', 'React', 'PostGIS', 'Docker', 'JavaScript', 'PostgreSQL', 'Python']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/est%C3%A1gio-em-meio-ambiente-geoprocessamento-vg-4011-arcadis-JV_IC2514646_KO0,49_KE50,57.htm?jl=1009458823969",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192290a38d3b46809b8d6a5a4aa&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_8cf2e06b&cb=1727265388888&jobListingId=1009458823969&jrtk=5-yul1-3-1i8kgke80i9d2801,2024-09-24,,2024-09-25,Geoprocessamento,,ESTÁGIO EM MEIO AMBIENTE (GEOPROCESSAMENTO)_VG 4011,Arcadis,"Belo Horizonte, Minas Gerais",MG,,,,,1009458823969,"Sobre a Arcadis:
+A Arcadis é a empresa líder mundial em soluções sustentáveis de design, engenharia e consultoria para ativos naturais e construídos. Somos mais de 36.000 pessoas, em mais de 70 países, dedicadas a melhorar a qualidade de vida. Todos têm um papel importante a desempenhar. Com o poder de muitas mentes curiosas, podemos resolver os desafios mais complexos do mundo e ter um impacto ainda maiores juntos.
+Descrição da vaga:
+Atuar na operação e manutenção de processos de coleta, transformação, visualização e análises de dados em diferentes plataformas digitais, auxiliando o desenvolvimento de novos produtos e apoiando a elaboração de relatórios e documentos técnicos, bem como promover a utilização de soluções digitais em toda companhia.
+Qualificações e experiência:
+Formação superior cursando em Geografia, Geologia, Engenharia Cartográfica, Ciência da Computação ou áreas correlatas;
+Conhecimento de ferramentas de geoprocessamento com ArcGIS Pro ou Qgis.
+Domínio pacote Office;
+Disponibilidade para atuar em modelo híbrido no escritório da Arcadis em Belo Horizonte.
+Habilidades desejáveis:
+Conhecimento de programação, especialmente em Python
+Inglês em nível intermediário
+Familiaridade com conceitos de sensoriamento remoto e análise de imagens.
+Por que escolher a Arcadis?
+Só podemos alcançar nossos objetivos quando todos têm a capacidade de ser o melhor que podem ser. Acreditamos que a contribuição de todos é importante. É por isso que somos pioneiros em uma abordagem baseada em habilidades, onde você pode aproveitar suas experiências e conhecimento único para traçar seu caminho profissional e maximizar o impacto que podemos gerar juntos.
+Você realizará um trabalho significativo e, não importa qual seja o cargo, ajudando a oferecer soluções sustentáveis para um planeta mais próspero. Faça sua marca, em sua carreira, colegas, clientes, vida e no mundo ao seu redor.
+Juntos, podemos criar um legado duradouro.
+Nosso Compromisso com Igualdade, Diversidade, Inclusão e Pertencimento:
+Queremos que você possa trazer o melhor de si para o trabalho todos os dias, é por isso que levamos a igualdade e a inclusão a sério e nos responsabilizamos por nossas ações. Nossa ambição é ser um empregador de escolha e oferecer um ótimo ambiente de trabalho para todas as nossas pessoas.
+Junte-se à Arcadis. Crie um legado.","['ArcGIS', 'Computer science', 'English', 'Data visualization', 'Python']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/analista-de-sucesso-do-cliente-pleno-cana-de-a%C3%A7%C3%BAcar-bem-agro-integracao-e-desenvolvimento-sa-JV_IC2475496_KO0,51_KE52,92.htm?jl=1009404129777",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192290ac3aea7b60f850d18f05c&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_e8093734&cb=1727265424407&jobListingId=1009404129777&jrtk=5-yul1-3-1i8kglguljcml801,2024-09-12,,2024-09-25,Geoprocessamento,,Analista de Sucesso do Cliente Pleno - Cana-de-Açúcar,BEM AGRO INTEGRACAO E DESENVOLVIMENTO S.A.,Ribeirão Preto,SP,,,,,1009404129777,"Analista de Sucesso do Cliente Pleno - Cana-de-Açúcar
+Na BemAgro, temos orgulho de nossa missão. Acreditamos no potencial do agronegócio e sabemos que é a partir dele que o mundo se sustenta. Nosso objetivo é permitir uma agricultura mais eficiente e sustentável por meio da tecnologia de ponta. Como Analista Sucesso Cliente, você desempenhará um papel fundamental na construção de fidelidade e no impulsionamento do crescimento da receita.
+Responsabilidades Principais:
+Acolhimento e Integração: Receba e integre novos clientes, apresentando-os às soluções da empresa.
+Suporte Técnico e Operacional: Forneça suporte eficiente, sanando dúvidas e resolvendo problemas dos clientes.
+Monitoramento e Otimização: Acompanhe o uso das soluções pelos clientes e identifique oportunidades de melhoria.
+Pesquisas de Satisfação: Realize pesquisas para avaliar a experiência dos clientes e identificar áreas de aprimoramento.
+Treinamento e Materiais de Suporte: Auxilie na criação de materiais de suporte e treinamento para os clientes.
+Gestão de Clientes Estratégicos: Identifique e atenda às necessidades específicas de clientes estratégicos.
+Análise de Dados: Analise dados dos clientes para identificar oportunidades de upsell e cross-sell.
+Qualificações e Conhecimentos Técnicos:
+Excel Intermediário
+Conhecimento Técnico das Soluções
+Mapeamento Aéreo com Drones
+Processamento Digital de Imagens
+Geoprocessamento
+Atualização em Novas Soluções
+CRM e Ferramentas de Produtividade
+Técnicas de Atendimento ao Cliente e Resolução de Conflitos","['CRM software', 'Construction']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/geoqu%C3%ADmico-j%C3%BAnior-belo-horizonte-golder-associates-JV_IC2514646_KO0,32_KE33,50.htm?jl=1009451146184",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192290b07248b0a2089f7e89fee&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_367ed5ea&cb=1727265441695&jobListingId=1009451146184&jrtk=5-yul1-3-1i8kgm1q4j720801,2024-09-18,,2024-09-25,Geoprocessamento,,Geoquímico Júnior (Belo Horizonte),Golder Associates,"Belo Horizonte, Minas Gerais",MG,,,,,1009451146184,"Geoquímico Júnior (Belo Horizonte)
+ - (24001409)
+Quem Somos
+
+Com mais de 50.000 pessoas trabalhando em mais de 550 escritórios em 44 países, a WSP é uma das principais empresas de consultoria multidisciplinar do mundo.
+
+Está em nosso DNA, desenvolver projetos que continuarão a nos conectar Valorizamos nosso pessoal, nossa reputação e nosso impacto no futuro. e a apoiar as próximas gerações.
+
+Na WSP, inclusão, diversidade, equidade e pertencimento são princípios fundamentais. Nossos valores nos representam, por isso estamos procurando profissionais comprometidos, colaboradores solidários e inovadores. Valorizamos a diversidade.
+
+Na WSP, somos motivados a inspirar as pessoas certas a fazer parte de nossos objetivos de negócios focados no futuro. Nossa devoção ao trabalho em equipe nos permitiu contribuir para a construção da sociedade e a expandir nossos horizontes. Aqui na WSP, tudo está ao nosso alcance – e ao seu, como funcionário WSP.
+
+Sobre a WSP Brasil
+
+A WSP no Brasil é formada a partir da aquisição da Ecology and Environment do Brasil em 2019 e Golder Associates Brasil em 2021, ambas com mais de 20 anos de experiência no mercado brasileiro. Uma consultoria integrada com atuação em todos os setores, especializada em serviços ambientais e de engenharia, que possui uma equipe de mais de 450 funcionários e escritórios em São Paulo, Rio de Janeiro e Belo Horizonte e atua em todas as regiões do Brasil.
+
+Na WSP as oportunidades são iguais, independente de Raça, Idade, Religião, Sexo, Orientação Sexual, Identidade de Gênero ou Deficiência.
+
+Sobre essa oportunidade
+
+A WSP Brasil está iniciando uma busca por uma pessoa para o cargo de Geoquímico Júnior , para atuar em Belo Horizonte.
+
+Responsabilidades deste cargo
+
+Elaboração de relatórios e memorandos técnicos.
+Execução de projetos de sua área de atuação, incluindo atendimento de prazos, orçamento e qualidade técnica.
+Execução de trabalhos de campo para planos de amostragem geoquímica, amostragem de água superficial, sedimentos, solos, resíduos, descrição de testemunhos e inventário de pontos de água.
+Compilação de dados e informações de banco de dados ambientais.
+Análises geoestatísticas e tratamento estatísticos de dados.
+Caracterizações hidroquímicas, isotópicas e modelagem hidrogeoquímica.
+Organização de dados, tabulação e input para modelo geoquímico de predição de qualidade de água e efluentes gerados por estruturas em áreas de mineração (cavas, pilhas, minas,etc).
+Executar trabalhos em campo junto ao cliente.
+
+Qualificações requeridas
+
+Graduação completa em Geologia, Engenharia Ambiental, Engenharia Química, Química ou áreas correlatas.
+Registro no CREA.
+Inglês avançado.
+Espanhol intermediário.
+
+Qualificações preferenciais
+
+Participação de trabalhos de amostragem.
+Métodos e procedimentos de QA/QC.
+Ensaios laboratoriais.
+Caracterização mineralógica.
+Estudos de caracterização geoquímica.
+Estudos para avaliação de potencial de drenagem ácida e de lixiviação de metais.
+Organização de dados e conhecimento básico em software para Modelagem hidrogeoquímica para predição de drenagem ácida e qualidade de água (PHREEQC).
+Caracterização hidroquímica (balanço iônico, Diagramas de Piper e Stiff etc.);
+Caracterização e estudos isotópicos.
+Análise estatística de resultados.
+CNH Categoria B.
+Disponibilidade para viagens e para atuação no escritório de Belo Horizonte.
+Tratamento de dados em Excel.
+Uso de software para geoprocessamento de dados, elaboração de mapas em GIS.
+Uso de software para caracterização hidroquímica de águas e
+Desejável conhecimento básico em programação em linguagem R e Phyton.
+
+O que a WSP Brasil oferece:
+
+A WSP Brasil oferece um conjunto de benefícios e salário compatíveis com o mercado, a possibilidade de aprofundar sua expertise em um ambiente de trabalho dinâmico, flexível e ágil, a participação em projetos multidisciplinares inovadores e colaborativos e treinamento on-the-job e mentoria.
+
+Primary Location BR-MG-Belo Horizonte
+Schedule Full-time
+Employee Status Regular
+Job Posting Sep 18, 2024, 9:12:23 AM","['Statistics', 'Spanish', 'R', 'English', 'Databases', 'Statistical analysis', 'Construction', 'Budgeting', 'GIS']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/analista-ambiental-ican-consultoria-em-rh-JV_IC2508060_KO0,18_KE19,41.htm?jl=1009436920602",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&tgt=APPLY_START&s=344&guid=00000192290b259696af400683b47ed2&src=GD_JOB_VIEW&t=NS&vt=w&ea=1&cs=1_8b2ed936&cb=1727265449523&jobListingId=1009436920602&jrtk=5-yul1-3-1i8kgm9eaia4t801,2024-09-06,,2024-09-25,Geoprocessamento,,ANALISTA AMBIENTAL,ICAN CONSULTORIA EM RH,Uberlândia,MG,,,,,1009436920602,"Empresa líder em Engenharia Ambiental, busca profissional qualificado para atuar como Cartógrafo Pleno em nossa unidade em Uberlândia-MG.Requisitos:Formação superior completa em Geografia, Cartografia, Engenharia Ambiental ou áreas afins.Experiência sólida em produção de cartografia temática e topográfica, utilizando softwares de GIS (ArcGIS, QGIS, etc.).Conhecimento aprofundado em geoprocessamento, incluindo coleta, tratamento e análise de dados geográficos.Habilidade em georreferenciamento de imagens e dados vetoriais, utilizando diferentes técnicas e ferramentas.Domínio de ferramentas de escritório (Pacote Office).Desejável experiência em programação (Python, R) e banco de dados geográficos.Carteira Nacional de Habilitação categoria B.Responsabilidades:Elaborar e atualizar bases de dados geográficos, garantindo a integridade e a acurácia das informações.Produzir mapas temáticos e cartas topográficas, atendendo aos padrões técnicos e normativos.Realizar análise espacial de dados geográficos, utilizando técnicas de geoprocessamento.Desenvolver projetos de geoprocessamento, desde a concepção até a entrega final.Colaborar em projetos multidisciplinares, fornecendo suporte técnico em geotecnologias.Acompanhar o avanço tecnológico na área de cartografia e geoprocessamento, propondo novas soluções e melhorias nos processos.Oferecemos:Remuneração compatível com o mercado.Benefícios: vale-transporte, vale-refeição, plano de saúdeOportunidade de crescimento profissional em uma empresa sólida e em constante expansão.Ambiente de trabalho dinâmico e colaborativo.Se você possui os requisitos acima e busca um desafio profissional em uma empresa inovadora, envie seu currículo!Tipo de vaga: Efetivo CLTPagamento: R$3.000,00 - R$3.500,00 por mês","['ArcGIS', 'Databases', 'Python', 'GIS']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/ambipar-response-es-agente-de-coleta-monitoramento-de-atividade-pesqueira-ambipar-response-es-sa-JV_IC2457818_KO0,73_KE74,96.htm?jl=1009424179081",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192290b7489876cb2e8433c7fe8&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_de504705&cb=1727265469679&jobListingId=1009424179081&jrtk=5-yul1-3-1i8kgmt56ljfk801,2024-08-28,,2024-09-25,Geoprocessamento,,AMBIPAR RESPONSE ES - Agente de Coleta(Monitoramento de Atividade Pesqueira),Ambipar Response ES S/A,"Serra, Espírito Santo",ES,,,,,1009424179081,"Essa oportunidade é para fazer parte da equipe do PROJETO DE MONITORAMENTO DA ATIVIDADE PESQUEIRA (PMAP) das Bacias de
+Campos e Espírito Santo. Esse profissional irá trabalhar diretamente com a comunidade local de pescadores de Jacaraípe, Serra/ES, além disso,
+buscamos alguém que tenha residência em comunidades pesqueiras e tenha vivência e conhecimento relacionados à pesca local.
+RP-1684
+Responsabilidades e atribuições
+
+Desenvolver atividades de coleta de dados pesqueiros;
+Identificar os tipos de embarcações, os aparelhos de pesca e os tipos
+de pescado comumente encontrados;
+Preencher e controlar cadastros em fichas de campo;
+Reportar os registros de pesca ao supervisor.
+
+Requisitos e qualificações
+
+Ensino fundamental e/ou médio;
+Fazer parte da comunidade pesqueira e/ou viver na localidade de Jacaraípe, Serra/ES , onde será realizado o levantamento de dados;
+Será um diferencial ter trabalhado em projetos de de Atividade Pesqueira.
+
+Informações adicionais
+
+Vale Alimentação ou Refeição;
+Vale transporte
+Assistência Médica;
+Assistência Odontológica;
+Seguro de Vida.
+A AMBIPAR RESPONSE ES S/A é um conglomerado de empresas, subsidiário da Ambipar Group, o qual tem como função dar suporte aos clientes nas áreas de Sustentabilidade, Meio Ambiente, Oceanografia, Geoprocessamento, Fornecimento de Mão de Obra Especializada, Sistema de Gerenciamento atuando de forma diferenciada e entregando soluções customizadas como uma plataforma GES - Global Environmental Solutions.
+Nossos dias são uma constante evolução e estamos sempre em busca do melhor.",['Data collection']
+Glassdoor,"https://www.glassdoor.com.br/job-listing/ambipar-response-es-assistente-administrativo-ambipar-response-es-sa-JV_IC2398785_KO0,45_KE46,68.htm?jl=1009448050751",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192290bc1a883b0336b88b5581f&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_5ab1f84c&cb=1727265489460&jobListingId=1009448050751&jrtk=5-yul1-3-1i8kgngf7m223801,2024-09-16,,2024-09-25,Geoprocessamento,,AMBIPAR RESPONSE ES - Assistente Administrativo,Ambipar Response ES S/A,"Uberaba, Minas Gerais",MG,,,,,1009448050751,"Esta posição é para atuar em novo projeto localizado em Uberaba/MG na base do cliente.
+Será apoio na base do projeto sendo responsável pelas frentes administrativas de forma geral tendo interface com demais setores do BackOffice.
+﻿RP Nº 1710
+Responsabilidades e atribuições
+
+Assessorar na elaboração, separação e/ou organização documentos, dossiês e arquivos de respectivas rotinas administrativas da área de atuação;
+Assessorar na emissão e analise de documentos e processos da área como ofícios, atas, minutas, requerimentos, protocolos, contratos, termos aditivos e suas justificativas, etc;
+Controlar entrada e saída de correspondências;
+Emitir e lançar nota fiscal em sistemas de pagamento quando aplicável na sua área;
+Elaborar planilhas e relatórios aplicáveis de sua área;
+Participar do planejamento, organização e controle de fluxos de trabalho;
+Assessorar na execução de atividades e tarefas operacionais, estudos de natureza administrativa na área de gestão de contratos, envolvendo fiscalização e acompanhamento dos serviços, orientando critérios e processos de sua responsabilidade;
+Realizar cadastros e atualizações junto aos órgãos públicos e partes interessadas para soluções, regularizações de processos e de instrumentos jurídicos para tarefas especificadas em contrato e/ou conforme suas responsabilidades;
+Realizar recepção, registros e encaminhamento de solicitações, reclamações e outras demandas recebidas para a execução de tarefas e/ou prestação de serviços de acordo com sua área de atuação;
+Realizar atividades administrativas apoiando no cumprimento de obrigações legais e contratuais na prestação de serviços;
+Elaborar, organizar e controlar documentos provenientes do fluxos de tarefas de sua responsabilidades conforme área de atuação;
+Realizar tarefas e rotinas das área administrativa e financeira;
+Emitir pedido de compra;
+Dirigir Veículo da empresa, se habilitado.
+
+Requisitos e qualificações
+
+Ensino Médio completo;
+Desejável cursando formação superior em: Administração de Empresas, Ciências Contábeis, Economia, Engenharia de Produção ou correlatos;
+Vivência em atividades administrativas financeiras (interface com sistemas, e-mails, organização de documentos, lançamentos e conferencia de dados, pedidos de compra ou outras relacionados.;
+Pacote Office Básico;
+Habilidade com sistemas e aplicativos;
+Desejável CNH B;
+Boa comunicação escrita e verbal, planejamento, organização e disciplina nas tarefas.
+
+Informações adicionais
+Você contará ainda com estes benefícios:
+
+Vale Alimentação ou Refeição;
+Transporte fornecido pela empresa (ônibus);
+Assistência Médica;
+Assistência Odontológica;
+Seguro de Vida.
+﻿Esta oportunidade também é disponível para candidatos PcD.
+Mantenha seu cadastro sempre atualizado e deixe seu e-mail e telefone com acesso do WhatsApp. É através destes canais que possivelmente faremos contato.
+A AMBIPAR RESPONSE ES S/A é um conglomerado de empresas, subsidiário da Ambipar Group, o qual tem como função dar suporte aos clientes nas áreas de Sustentabilidade, Meio Ambiente, Oceanografia, Geoprocessamento, Fornecimento de Mão de Obra Especializada, Sistema de Gerenciamento atuando de forma diferenciada e entregando soluções customizadas como uma plataforma GES - Global Environmental Solutions.
+Nossos dias são uma constante evolução e estamos sempre em busca do melhor.","['Accounting', 'Communication skills']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/t%C3%A9cnico-projetista-sinco-sinaliza%C3%A7%C3%A3o-JV_IC2412711_KO0,18_KE19,36.htm?jl=1009454706553",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&tgt=APPLY_START&s=344&guid=00000192290c64e39bacd4330311ecad&src=GD_JOB_VIEW&t=NS&vt=w&ea=1&cs=1_a85276ff&cb=1727265531268&jobListingId=1009454706553&jrtk=5-yul1-3-1i8kgop8hl6gk801,2024-09-20,,2024-09-25,Geoprocessamento,,Técnico Projetista,Sinco Sinalização,Campina Grande do Sul,PR,,,,,1009454706553,"Se você se considera ágil, organizada, com vontade de fazer acontecer, empática, tem disposição para aprender e para compartilhar o seu conhecimento conosco, essa vaga é sua!Estamos buscando um Técnico Projetista, que terá como principais responsabilidades:Atividades Atribuídas: Atuação na área técnica rodoviária, elaborando desenhos técnicos em autocad para projetos de sinalização viária sob as diretrizes do código de trânsito e das normas técnicas;Além disso, irá efetuar levantamentos e pesquisas para fornecimento de dados relativos a obras e serviços rodoviários;Será considerado um diferencial ter conhecimento em geoprocessamento.Requisitos:Conhecimento em autocad;Possuir técnico em edificações ou curso em áreas correlatas, pacote office intermediário/avançado e boa relação com trabalho em equipe.Tipo de vaga: Tempo IntegralPagamento: Até R$5.000,00 por mês",['AutoCAD']
+Glassdoor,"https://www.glassdoor.com.br/job-listing/engenheiro-de-geoprocessamento-jobbol-JV_IC2398468_KO0,30_KE31,37.htm?jl=1009432538172",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192290cbed39986c8919d4195c9&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_1c4522c2&cb=1727265554285&jobListingId=1009432538172&jrtk=5-yul1-3-1i8kgpfnji97b801,2024-09-03,,2024-09-25,Geoprocessamento,,Engenheiro de Geoprocessamento,Jobbol,Goiânia,GO,,,,,1009432538172,"Descrição da oferta:
+
+Empresa de engenharia admite Engenheiro de Geoprocessamento em Goiânia.
+Principais Responsabilidades:
+
+Coletar, analisar e interpretar dados geoespaciais utilizando tecnologias como sistemas de informação geográfica (SIG) e sensoriamento remoto. Criar mapas temáticos, modelos digitais de terreno e outras representações geoespaciais para auxiliar no planejamento e tomada de decisões.
+
+Benefícios oferecidos:
+Benefícios a combinar em entrevista.
+Salário:
+A combinar.
+Observações:
+Regime de contratação: Efetivo
+Período: Tempo integral
+Horário de trabalho: A combinar.
+Categoria: Manutenção / Construção
+Local: Goiânia
+
+Id: 29368058196",['Construction']
+Glassdoor,"https://www.glassdoor.com.br/job-listing/assistente-de-geoprocessamento-geopixel-JV_IC2464122_KO0,30_KE31,39.htm?jl=1009432407337",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192290d0e50afab5bd02ea3d554&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_dd903326&cb=1727265574605&jobListingId=1009432407337&jrtk=5-yul1-3-1i8kgq3k7h74g801,2024-09-03,,2024-09-25,Geoprocessamento,,Assistente de Geoprocessamento,Geopixel,"São José dos Campos, São Paulo",SP,,,,,1009432407337,"A Geopixel está com vagas abertas para Assistente de Geoprocessamento Pleno.
+
+Se você possui conhecimento em preparação de dados geoespaciais, controle de qualidade e interpretação de imagens de satélite ou aéreas, trabalhos de campo e relatórios de projetos, venha fazer parte no nosso time!!
+#vempraGEO
+Responsabilidades e atribuições
+
+Analisar a metodologia de coleta, armazenamento e tratamento de informações geoespaciais, alinhando com fornecedores a melhor utilização para atender às necessidades do cliente e encaminhando os insumos para a execução dos serviços.
+Organizar e manter atualizado o banco de dados de projetos de geoprocessamento da empresa.
+Realizar análise da capacidade técnica de atendimento de fornecedor ao padrão de qualidade, prazo e assistência esperado pela Geopixel, realizando a validação da sua qualificação para prestar serviços para a empresa.
+Produzir relatórios internos de acompanhamento de projeto com métricas, desafios e prazos e relatórios mensais de atividades realizadas no período com o objetivo de realizar medições junto ao cliente.
+Realizar treinamento e passagem de conhecimento aos atuais e novos colaboradores da empresa.
+Monitorar o desenvolvimento dos processos de geoprocessamento, executando atividades técnicas de geração de imagens e de vetores controlando a qualidade dos produtos gerados, buscando garantir a conformidade do resultado com o que foi previsto no planejamento.
+Fornecer informações para melhoria dos processos de geração de produtos de imagem e vetores.
+
+Requisitos e qualificações
+
+Ensino Médio Completo ou Cursando em Geografia, Engenharia Cartográfica, Arquitetura, Tecnólogo em Geoprocessamento, Engenharia Florestal, Biologia, Engenharia Ambiental e áreas afins e/ou experiência comprovada.
+Conhecimento intermediário em Cartografia;
+Pacote Office intermediário;
+Noções intermediária em ferramentas SIG (ArcGis, QGis, AutoCad, entre outros) e/ou ferramentas de processamento digital de imagem (PCI, PIX4D, Potree, entre outros);
+Inglês intermediário.
+Informações adicionais
+
+ Plano de Saúde;
+Assistência Odontológica;
+Vale Refeição - Cartão Flash;
+Vale transporte;
+Seguro de vida em grupo;
+Horário Flexível;
+Day Off no mês de aniversário;
+Convênio com farmácias e desconto em folha;
+Cooperativa de crédito SICOOB;
+Convênio com o SESC (descontos em eventos pagos);
+Parceria com psicóloga (valor social);
+Parceria com agência de turismo (descontos em pacotes de viagens);
+Parceria com Empório Nestlé (descontos na loja física);
+Parceria com UNIVAP (descontos nos colégios de educação básica e cursos superiores);
+Ginástica Laboral 2x por semana (presencial e on line);
+Auxílio-creche *ver condições no RH;
+Programa de indicação com premiação;
+Oportunidade de crescimento e aprendizado;
+Somos líder no segmento, atuando em dezenas prefeituras espalhadas por todo o Brasil e mais de 200 colaboradores trabalhando para atingir os melhores resultados.
+
+Utilizando a inteligência de sistemas de informações, a Geopixel constrói, adapta e amplia a capacidade de gestão e de planejamento dos municípios, melhorando a arrecadação municipal, eficiência dos processos internos e atendimento ao munícipe.
+
+Nosso diferencial é ser uma empresa ética, flexível, experiente e sólida, constituída por uma equipe multidisciplinar com profundo conhecimento prático, acadêmico e de mercado.
+
+Buscamos profissionais que queiram atuar em um ambiente com constante aprendizado, desafios e crescimento!! #vempraGEO","['ArcGIS', 'AutoCAD', 'English', 'Databases', 'Quality control', 'Human resources']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/est%C3%A1gio-em-geoprocessamento-opera%C3%A7%C3%B5es-netvagas-JV_KO0,37_KE38,46.htm?jl=1009452054720",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192290d646f8974021b1d442341&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_d48136b7&cb=1727265596645&jobListingId=1009452054720&jrtk=5-yul1-3-1i8kgqp4mgblm801,2024-09-18,,2024-09-25,Geoprocessamento,,Estágio em geoprocessamento - operações,Netvagas,,,Trabalho remoto,,,,1009452054720,"Descrição:
+Deverá estar cursando ensino superior a partir do 2º ano em Geoprocessamento, Engenharia Ambiental, Geografia, Cartografia, Gestão Ambiental, Arquitetura ou áreas afins.
+Possuir Noções em Arcgis e Qgis e em geoprocessamento.
+Diferenciais: sensoriamento remoto e processamento digital de imagens, noções em cadastro imobiliário e tributação municipal.
+Irá atuar na área de projetos com atividades voltadas aos clientes de governo municipal. As atividades contemplarão:
+Análise de cadastro imobiliário
+Vetorização: Produzir conteúdo geoespacial a partir da interpretação visual dos elementos disponíveis como insumo do projeto (ortofoto, foto de fachada, plantas de loteamento, etc).
+Geração de dados geográficos
+Participação em treinamentos
+Desenho de metodologias técnicas com profissionais seniores
+Entendimento de fluxos de qualidade e adequação de processos de trabalho certificados.
+
+2409190202241104032",['ArcGIS']
+Glassdoor,"https://www.glassdoor.com.br/job-listing/engenheiro-cartogr%C3%A1fico-bk-consultoria-e-servi%C3%A7os-JV_IC2479061_KO0,23_KE24,49.htm?jl=1009379148986",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192290dd71286051f11afb2e16a&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_61541ad1&cb=1727265626227&jobListingId=1009379148986&jrtk=5-yul1-3-1i8kgrlra2es1001,2024-09-24,,2024-09-25,Geoprocessamento,,Engenheiro Cartográfico,BK Consultoria e Serviços,"São Paulo, São Paulo",SP,,,,,1009379148986,"
+Atividades de análise patrimonial, experiência em gestão patrimonial, com capacitação ou extensão em topografia e geoprocessamento, possuir CNH categoria B, conhecimento em Ms-Office (MS-Word, MS-Excel, Ms-PowerPoint) e ArqGis e AutoCAd com experiência comprovada na execução das atividades relacionadas, bem como expertise em gestão de ativos e experiência em realizar laudo.
+
+Escolaridade Mínima: Ensino Superior
+
+Habilitação para dirigir: B
+
+Vale Refeição","['Microsoft Powerpoint', 'Microsoft Word', 'AutoCAD', 'Management']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/analista-sig-s%C3%AAnior-tetra-tech-am%C3%A9rica-do-sul-JV_IC2514646_KO0,19_KE20,45.htm?jl=1009099151744",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192290e807586ea9a335d7e47f3&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_933b8bc5&cb=1727265669363&jobListingId=1009099151744&jrtk=5-yul1-3-1i8kgt054h74g801,2024-08-30,,2024-09-25,Geoprocessamento,,Analista SIG Sênior,Tetra Tech América do Sul,"Belo Horizonte, Minas Gerais",MG,,,,,1009099151744,"Venha fazer parte do nosso time de especialistas!
+Estamos em busca de um/a Analista SIG Sênior, para atuar em Belo Horizonte/MG no formato híbrido.
+Somos reconhecidos pela GPTW (Great Place To Work) como uma das melhores empresas para se trabalhar na América do Sul e pela credibilidade técnica dos nossos projetos #LiderandocomCiencia. Na Tetra Tech, as pessoas colaboram, atuam em projetos multidisciplinares e desafiadores. Acreditamos que a diversidade é fundamental para o nosso crescimento e desenvolvimento, aqui respeitamos e valorizamos as diferenças, independente de gênero, orientação afetiva, política, idade, raça, etnia, crença ou se você é PCD, aqui você é acolhida/o e bem-vinda/o.
+Seus principais desafios serão:
+Coletar e analisar dados geográficos diversos;
+Elaborar relatórios técnicos, apresentações, estudos e materiais fornecendo informações relevantes e confiáveis para auxiliar na tomada de decisões estratégicas;
+Manter-se atualizado sobre as tendências e avanços no campo dos sistemas de informações geográficas e ciência de dados, a fim de contribuir na oferta de soluções mais inovadoras e eficientes;
+Promover capacitações e treinamentos para aprimorar conhecimentos e habilidades próprias e do time;
+Participar de equipes multidisciplinares, trabalhando em conjunto com projetistas, desenhistas, engenheiros civis, engenheiros ambientais, geólogos, geotécnicos e outros profissionais, para contribuir com soluções integradas e eficazes para os desafios enfrentados pelos diversos setores atendidos pela Tetra Tech.
+Esperamos que você tenha:
+Domínio em cartografia, geoprocessamento e em sistemas de informação geográfica (QGIS/ArcGIS);Conhecimentos avançados em bancos de dados relacionais (PostGRESQL + PostGIS);
+Experiência no desenvolvimento e manutenção de soluções GIS (Python, JavaScript, CSS, HTML);Conhecimentos avançados em análises de dados, modelagem (aprendizado de máquina) e visualização (Python/R);
+Formação acadêmica:
+Superior completo Geografia ou Engenharia Ambiental/Minas/Agrimensura/Cartográfica.
+É considerado diferencial:
+Pós Graduação ou Mestrado na área de Geoprocessamento/Sensoriamento Remoto/Ciência de Dados;","['ArcGIS', 'CSS', 'PostGIS', 'Relational databases', 'Maintenance', 'Databases', 'JavaScript', 'PostgreSQL', 'Data science', 'Python', 'HTML5', 'GIS']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/analista-em-geotecnologia-centro-de-estudos-da-cultura-e-do-meio-ambiente-da-amaz%C3%B4nia-rio-terra-JV_IC2421750_KO0,25_KE26,95.htm?jl=1009322569648",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192290eda0bbcfbb5246c80047a&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_5121448a&cb=1727265692270&jobListingId=1009322569648&jrtk=5-yul1-3-1i8kgtmhoj73u801,2024-09-13,,2024-09-25,Geoprocessamento,,Analista em Geotecnologia,CENTRO DE ESTUDOS DA CULTURA E DO MEIO AMBIENTE DA AMAZÔNIA RIO TERRA,"Porto Velho, Rondônia",RO,,,,,1009322569648,"1. PERFIL PROFISSIONAL E HABILIDADES:
+a) Serão selecionados(as) preferencialmente candidatos(as) com nível superior.
+b) As áreas de formação superior preferíveis são: Agronomia, Engenharia Ambiental, Engenharia Florestal, Geografia, ou outra cuja formação seja compatível com registro no Conselho Regional de Engenharia e Agronomia (CREA);
+c) Terão preferência candidatos(as) com experiência comprovada em atividades de geoprocessamento, com ênfase novo Código Florestal e Cadastro Ambiental Rural/CAR.
+d) Experiências anteriores comprovadas com cartas de referência atual, terão pontuação adicional. Nestes casos, será considerado extremamente importante que tais cartas indiquem: a natureza da função exercida, o detalhamento das atividades profissionais (no que couber), à sua duração e seu contexto (Em que projeto foi exercida a função? Quais públicos foram atendidos e em que contexto? Qual a relevância das atividades para a sociedade ou meio ambiente?)
+e) Possuir experiência comprovada em elaboração de mapas, sensoriamento remoto, utilização e análise de imagens de satélite, leitura e manipulação de dados geoespaciais e organização de banco de dados geográficos;
+f) Conhecimento de softwares de geotecnologia (SIG Arcgis e Qgis);
+g) Conhecimento em operação de GPS;
+h) Uso do módulo do Cadastro Ambiental Rural – CAR;
+i) Uso do módulo do Programa de Regularização Ambiental – PRA;
+j) Capacidade de organização e comunicação;
+k) Facilidade e proatividades para trabalhar em equipe multidisciplinar;
+l) É indispensável a disponibilidade para viagens a campo;
+m) É preferível Habilitação (CNH) tipo “B” ou “AB”;
+n) Registro no Conselho Regional de Engenharia e Agronomia (CREA);
+2. DOCUMENTOS NECESSÁRIOS PARA APRESENTAÇÃO
+a) Fotocópia da Cédula de Identidade e CPF/MF;
+b) Fotocópia de um comprovante de endereço datado de, no máximo, um mês anterior ao dia marcado para a apresentação dos documentos elencados neste item;
+c) Fotocópia dos diplomas e títulos de especialidade;
+d) Fotocópia da CNH, categoria B ou AB;
+e) Currículo Vitae;
+f) Fotocópia da carteira CREA atualizado;","['ArcGIS', 'Databases', 'GPS', 'Communication skills']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/analista-t%C3%A9cnico-erg-engenharia-JV_IC2514646_KO0,16_KE17,31.htm?jl=1009426269778",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&tgt=APPLY_START&s=344&guid=00000192290f132a9389e85194e04f1b&src=GD_JOB_VIEW&t=NS&vt=w&ea=1&cs=1_d63bb169&cb=1727265707009&jobListingId=1009426269778&jrtk=5-yul1-3-1i8kgu4rlm216801,2024-08-30,,2024-09-25,Geoprocessamento,,Analista Técnico,ERG ENGENHARIA,"Belo Horizonte, Minas Gerais",MG,,,,,1009426269778,"Atividades:Análise documental;Elaboração de relatórios;Processos Georreferenciamento e regularização de imóveis;Elaboração de Mapas em ambiente GIS;apoio técnico as equipes de topografia e despachantes.Requisitos:Curso Técnico completo em Agrimensura ou áreas afins;Experiência em AutoCad; QGIS; Topografia, Geoprocessamento; Georreferenciamento e Regularização de Imóveis.*Tipo de vaga: Efetivo CLTPagamento: R$2.000,00 - R$4.500,00 por mêsBenefícios:Assistência médicaAssistência odontológicaSeguro de vidaHorário de trabalho:De segunda à sexta-feiraPagamento adicional:13º salário","['AutoCAD', 'GIS']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/estagio-sql-tecnologia-e-servi%C3%A7os-JV_IC2458266_KO0,7_KE8,33.htm?jl=1009442427568",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&tgt=APPLY_START&s=344&guid=00000192290f4c39aece746745b58e7f&src=GD_JOB_VIEW&t=NS&vt=w&ea=1&cs=1_0093ced8&cb=1727265721517&jobListingId=1009442427568&jrtk=5-yul1-3-1i8kguj34gmv0801,2024-09-11,,2024-09-25,Geoprocessamento,,Estagio,SQL TECNOLOGIA E SERVIÇOS,"Vila Velha, Espírito Santo",ES,,,,,1009442427568,"A vaga consiste no análise e tratamento de dados coletados para recadastramento imobiliário em campo com a utilização de software customizado, elaboração de relatório análise e controle de qualidade, análise e tratamento de dados georreferencia entre outras atividades. Oferecemos bolsa de R$1150,00 + auxílio transporte de R$150,00 + bonificação de R$50,00 por metas e R$50,00 por assiduidade, com carga horária de 6 horas diárias, de 07:00 às 13:00, de segunda-feira à sexta-feira.Requisitos: Estar estudando Arquitetura e Urbanismo, Engenharia Civil ou Geografia, a partir do 3° período. Desejável ter aptidão com tecnologia e rápido aprendizado, conhecimento em Autocad, Excel e ferramentas de Geoprocessamento (QGIS)Tipo de vaga: Estágio / TraineeDuração do contrato: 12 mesesPagamento: R$1.000,00 - R$1.150,00 por mêsHorário de trabalho:De segunda à sexta-feiraPergunta(s) de seleção:Tem experiência com Autocad, Excel e ferramentas de Geoprocessamento (QGIS)",['AutoCAD']
+Glassdoor,"https://www.glassdoor.com.br/job-listing/auxiliar-treinee-irla-arcad-geoprocessamento-JV_IC2479365_KO0,21_KE22,44.htm?jl=1009458347813",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&tgt=APPLY_START&s=344&guid=00000192290f71bfa0197e30eff3fdb5&src=GD_JOB_VIEW&t=NS&vt=w&ea=1&cs=1_eab592cd&cb=1727265731239&jobListingId=1009458347813&jrtk=5-yul1-3-1i8kgushej714801,2024-09-24,,2024-09-25,Geoprocessamento,,Auxiliar Treinee IRLA,ARCAD Geoprocessamento,Taubaté,SP,,,,,1009458347813,"AUXILIAR TREINEE IRLA (Instalador e Reparador de Linhas Aéreas)Não precisa ter experiência na área.Descrição da VagaEmpresa do segmento de telecomunicações contrata profissionais para atuar como Auxiliar IRLA (Instalador e Reparador de Linhas Aéreas) de produtos e serviços de TV por Assinatura, Internet, Telefonia Fixa e Móvel de clientes residenciais e empresariais na região de Taubaté.Atribuições:Auxiliar na instalação e configuração dos produtos e serviços prestados pela CLARO (TV por Assinatura, Internet Banda Larga, Telefonia Fixa e Móvel);Requisitos:Ensino Médio Completo;CNH categoria “B” válida;Conhecimento em informática e Internet;Necessário residir em Taubaté, Tremembé ou Pindamonhangaba;Disponibilidade de horário e viagem;Jornada de trabalho: Segunda à Quinta das 8h às 16h00Sexta e Sábado das 8h às 17h00Benefícios:Treinamento e Capacitação para exercício da profissão de IRLA (Instalador e Reparador de Linhas Aéreas);Treinamento e Certificação NR10 e NR35;Veículo da empresa, Ferramental, EPI’s, Aparelho celular e chip para o exercício das atividades;Salário: a partir de R$1.320,00Periculosidade após mudança de função (somente após conclusão de todos os Treinamentos)Vale Refeição de R$23,00 por dia;Tipo de vaga: Tempo Integral, Efetivo/CLTTipo de vaga: Tempo integral, Efetivo CLTPagamento: a partir de R$1.412,00 por mêsBenefícios:Celular da empresaSeguro de vidaVale-refeiçãoVeículo da empresaPagamento adicional:13º salárioAdicional de periculosidadeComissãoHora extraPergunta(s) de seleção:POSSUÍ CNH CATEGORIA B VALIDA?Escolaridade:Ensino Médio completo (Preferencial)Local do trabalho: PresencialData de início prevista: 01/10/2024",['Computer skills']
+Glassdoor,"https://www.glassdoor.com.br/job-listing/desenvolvedor-geo-gr%C3%A3o-intelig%C3%AAncia-JV_IC2479061_KO0,17_KE18,35.htm?jl=1008819136330",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192290fedeb963b8d783ce4dcbd&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_4898bd24&cb=1727265762915&jobListingId=1008819136330&jrtk=5-yul1-3-1i8kgvrgd24s7001,2024-09-17,,2024-09-25,Geoprocessamento,,Desenvolvedor GEO,Grão Inteligência,"São Paulo, São Paulo",SP,,,,,1008819136330,"Como é trabalhar na Grão?
+Muito além de uma consultoria, somos propulsores no processo de transformação.
+Nosso maior objetivo é gerar valor e fazer a diferença para nossos clientes, impulsionando-os na jornada de adaptação às mudanças do mercado.
+Entregamos soluções que visam a transformação estratégica do negócio, por meio de uma equipe multidisciplinar que busca sempre modelos inovadores e a excelência na forma e nos resultados.
+
+Formação
+Superior completo em TI, Ciência da Computação, Analista de Sistemas e Desenvolvimento ou áreas correlatas
+Nível de experiência
+Pleno ou Sênior
+Setor
+TI/Telecom
+Local de atuação
+Presencial/Hibrida em SP (Vila Olímpia)
+Requisitos:
+Desenvolvimento Geo com foco em GeoServer;
+Domínio de coordenadas geográficas (lat e long);
+Expertise em geoprocessamento e análise de informações geográficas;
+Conhecimentos de ferramentas de GEO e interfaces de geolocalização;
+Modelagem de dados geográficos;
+Análise de dados espaciais e de imagens.","['Computer science', 'Data modeling', 'IT']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/assistente-de-geoprocessamento-pleno-geopixel-JV_IC2464122_KO0,36_KE37,45.htm?jl=1009398612463",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=0000019229102fd18c11996b9b010818&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_f3223960&cb=1727265779798&jobListingId=1009398612463&jrtk=5-yul1-3-1i8kh0bvrjcnc801,2024-09-07,,2024-09-25,Geoprocessamento,,Assistente de Geoprocessamento Pleno,Geopixel,"São José dos Campos, São Paulo",SP,,,,,1009398612463,"A Geopixel está com vagas abertas para Assistente de Geoprocessamento Pleno.
+Se você possui conhecimento em Realizar atividades operacionais de preparação de dados geoespaciais, controle de qualidade e interpretação de imagens de satélite ou aéreas de variadas resoluções espaciais, venha fazer parte no nosso time!!
+#vempraGEO
+Responsabilidades e atribuições
+
+Analisar a metodologia de coleta, armazenamento e tratamento de informações geoespaciais, alinhando com fornecedores a melhor utilização para atender às necessidades do cliente e encaminhando os insumos para a execução dos serviços.
+Organizar e manter atualizado o banco de dados de projetos de geoprocessamento da empresa.
+Realizar análise da capacidade técnica de atendimento de fornecedor ao padrão de qualidade, prazo e assistência esperado pela Geopixel, realizando a validação da sua qualificação para prestar serviços para a empresa.
+Produzir relatórios internos de acompanhamento de projeto com métricas, desafios e prazos e relatórios mensais de atividades realizadas no período com o objetivo de realizar medições junto ao cliente.
+Realizar treinamento e passagem de conhecimento aos atuais e novos colaboradores da empresa.
+Monitorar o desenvolvimento dos processos de geoprocessamento, executando atividades técnicas de geração de imagens e de vetores controlando a qualidade dos produtos gerados, buscando garantir a conformidade do resultado com o que foi previsto no planejamento.
+Fornecer informações para melhoria dos processos de geração de produtos de imagem e vetores.
+
+Requisitos e qualificações
+
+Ensino Médio Completo ou Cursando em Geografia, Engenharia Cartográfica, Arquitetura, Tecnólogo em Geoprocessamento, Engenharia Florestal, Biologia, Engenharia Ambiental e áreas afins e/ou experiência comprovada.
+﻿
+Conhecimentos desejáveis:
+Conhecimento intermediário em Cartografia.
+MS Office intermediário.
+Noções intermediária em ferramentas SIG (ArcGis, QGis, AutoCad, entre outros) e/ou ferramentas de processamento digital de imagem (PCI, PIX4D, Potree, entre outros).
+Inglês intermediário.
+Informações adicionais
+
+Vale Refeição - Cartão Flash;
+ Plano de Saúde;
+Assistência Odontológica;
+Vale transporte;
+Seguro de vida em grupo;
+Total pass com desconto em cartão de crédito e inclusão de dependentes;
+Horário Flexível;
+Day Off no mês de aniversário;
+Convênio com farmácias e desconto em folha;
+Cooperativa de crédito SICOOB;
+Convênio com o SESC (descontos em eventos pagos e hotéis, passeios e viagens a preços acessíveis);
+Parceria com psicóloga (valor social);
+Parceria com agência de turismo (descontos em pacotes de viagens);
+Parceria com Empório Nestlé (descontos na loja física);
+Parceria com UNIVAP (descontos nos colégios de educação básica e cursos superiores);
+Ginástica Laboral 2x por semana (presencial e on line);
+Auxílio-creche ,(para as colaboradoras mães que retornam de licença maternidade);
+Programa de indicação com premiação financeira;
+Oportunidade de crescimento e aprendizado.
+Somos líder no segmento, atuando em dezenas prefeituras espalhadas por todo o Brasil e mais de 200 colaboradores trabalhando para atingir os melhores resultados.
+
+Utilizando a inteligência de sistemas de informações, a Geopixel constrói, adapta e amplia a capacidade de gestão e de planejamento dos municípios, melhorando a arrecadação municipal, eficiência dos processos internos e atendimento ao munícipe.
+
+Nosso diferencial é ser uma empresa ética, flexível, experiente e sólida, constituída por uma equipe multidisciplinar com profundo conhecimento prático, acadêmico e de mercado.
+
+Buscamos profissionais que queiram atuar em um ambiente com constante aprendizado, desafios e crescimento!! #vempraGEO","['ArcGIS', 'AutoCAD', 'English', 'Microsoft Office', 'Databases']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/ambipar-response-es-t%C3%A9cnica-em-qu%C3%ADmica-ambipar-response-es-sa-JV_IC2412445_KO0,38_KE39,61.htm?jl=1009441193478",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192291057fd9c507c76b0ca7299&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_0f1cdc56&cb=1727265790068&jobListingId=1009441193478&jrtk=5-yul1-3-1i8kh0m11gc1r801,2024-09-10,,2024-09-25,Geoprocessamento,,AMBIPAR RESPONSE ES - Técnica em Química,Ambipar Response ES S/A,Araucária,PR,,,,,1009441193478,"Buscamos Pessoa Técnica em Química que resida em Araucária/PR e/ou nas redondezas para contratação imediata para trabalho na REPAR- Petrobras
+RP-1698-AMBP-ENV-789
+Responsabilidades e atribuições
+
+Realizar a gestão de produtos químicos utilizados na operação, anotando volumes, solicitando reposição de produtos;
+Realizar a aplicação de produtos químicos nas operações obedecendo a procedimentos em dosagem;
+Preparar soluções químicas de acordo com os procedimentos operacionais e diretrizes do cliente;
+Realizar análises laboratoriais de produtos e resíduos de acordo com procedimentos;
+Elaborar procedimentos de preparo de solução e análises químicas quando necessário;
+Preencher planilhas e sistemas digitais de gestão dos documentos;
+Realizar limpeza das bancadas de trabalho e da área de armazenamento dos produtos químicos;
+Zelar pela limpeza e conservação do seu local de trabalho, veículos, máquinas e ferramentas sob sua guarda;
+Cumprir as normas de saúde, segurança e meio ambiente conforme estabelecido pela Empresa;
+Cumprir os processos e demais mecanismos para atendimento do SGI da Empresa;
+Assegurar que o sistema de gestão de saúde, segurança e meio ambiente estejam em conformidade com os requisitos das normas implantadas e relatar o seu devido desempenho para a alta direção;
+Retirar quaisquer barreiras que possam incluir falhas nas sugestões de trabalhadores.
+
+Requisitos e qualificações
+
+Formação completa em Técnico em Química, com registro no conselho da classe;
+Desejável vivência em ambientes industriais;
+Desejável CNH B.
+
+Informações adicionais
+Você contará ainda com estes benefícios:
+
+Vale Alimentação ou Refeição;
+Refeição na área do cliente;
+Transporte;
+Assistência Médica;
+Assistência Odontológica;
+Seguro de Vida.
+A AMBIPAR RESPONSE ES S/A é um conglomerado de empresas, subsidiário da Ambipar Group, o qual tem como função dar suporte aos clientes nas áreas de Sustentabilidade, Meio Ambiente, Oceanografia, Geoprocessamento, Fornecimento de Mão de Obra Especializada, Sistema de Gerenciamento atuando de forma diferenciada e entregando soluções customizadas como uma plataforma GES - Global Environmental Solutions.
+Nossos dias são uma constante evolução e estamos sempre em busca do melhor.","['Cleaning', 'Document management systems']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/ambipar-remediation-analista-de-projetos-mec%C3%A2nicos-ambipar-response-es-sa-JV_IC2480058_KO0,50_KE51,73.htm?jl=1009448050936",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=00000192291097f7831ad86578507569&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_2463b788&cb=1727265806613&jobListingId=1009448050936&jrtk=5-yul1-3-1i8kh164um21p801,2024-09-16,,2024-09-25,Geoprocessamento,,AMBIPAR REMEDIATION - Analista de Projetos Mecânicos,Ambipar Response ES S/A,Indaiatuba,SP,,,,,1009448050936,"Somos uma multinacional brasileira especialista em soluções ambientais, gerenciamento de crises e atendimento a emergências que respeita as regras de compliance e responsabilidade socioambiental, prezando a ética e o pronto atendimento às demandas de nossos clientes.
+Temos conhecimento e experiência para reduzir os impactos ambientais e sociais que vivenciamos hoje, oferecendo serviços inteligentes e expertise aos nossos clientes, para juntos superar os desafios da sustentabilidade. Afinal, para nós, sustentabilidade não é apenas um discurso, é nosso dia a dia.
+Local de Trabalho: Indaiatuba/SP
+Responsabilidades e atribuições
+
+Projetar Módulos e Linhas para Equipamentos de Sistemas de Remediação;;
+Dimensionar equipamentos como Bombas, motores e válvulas;
+Desenvolver equipamentos como tanques e vasos de pressão baseado em normas técnicas;
+Realizar Visitas em Campo para estudo aplicabilidade dos Sistemas de Remediação;
+Projetar áreas para implementação das linhas de encaminhamentos dos poços e Sistemas;
+Desenvolver e Especificar novos fornecedores;
+Acompanhar a Montagem e teste dos Sistemas e Equipamentos;
+Solucionar PDS’s abertos;
+Realizar Visitas de acompanhamento de implementação dos Projetos Civil;
+Realizar acompanhamento de fabricação de equipamentos junto aos fornecedores;
+Conduzir veículos automotivos para fins de atendimento às funções e demandas laborais.
+
+Requisitos e qualificações
+
+Formação Escolar
+Mínimo:
+Técnico em Mecânica
+Desejável:
+Ensino Superior em Engenharia Mecânica ou Produção
+Área de Estudo:
+Mecânica
+Conhecimentos Necessários
+Software de Gestão Empresarial Sankhya;
+Projetos Mecânicos;
+Técnicas de Remediação Ambiental.
+Habilidades
+Organização do Trabalho;
+Espírito de Equipe;
+Negociação.
+
+Informações adicionais
+
+Alimentação no Local (café da manhã e almoço)
+Transporte Público
+Assistência Médica e Odontológica
+Cartão Flexível
+Convênio Farmácia (Drogal)
+Seguro de Vida
+Convênio com Sesi
+Bolsa de Inglês escola Why Not (Após período de experiência)
+A AMBIPAR RESPONSE ES S/A é um conglomerado de empresas, subsidiário da Ambipar Group, o qual tem como função dar suporte aos clientes nas áreas de Sustentabilidade, Meio Ambiente, Oceanografia, Geoprocessamento, Fornecimento de Mão de Obra Especializada, Sistema de Gerenciamento atuando de forma diferenciada e entregando soluções customizadas como uma plataforma GES - Global Environmental Solutions.
+Nossos dias são uma constante evolução e estamos sempre em busca do melhor.","['Management', 'Crisis management', 'Project management', 'System testing', 'Business management']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/monitor-a-cop-arcad-geoprocessamento-JV_IC2479365_KO0,13_KE14,36.htm?jl=1009406257989",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&tgt=APPLY_START&s=344&guid=000001922910e2a1a3d8a674d799c1b0&src=GD_JOB_VIEW&t=NS&vt=w&ea=1&cs=1_ccdf73dc&cb=1727265825551&jobListingId=1009406257989&jrtk=5-yul1-3-1i8kh1omfm22a801,2024-09-14,,2024-09-25,Geoprocessamento,,Monitor(a) Cop,ARCAD Geoprocessamento,Taubaté,SP,,,,,1009406257989,"Vaga destinada ao monitoramento dos técnicos que prestam serviço para a Claro. Necessário Ensino Médio completo, conhecimentos em informática e pacote Office.Carga horária de segunda a sábado das 08:00 as 16:50 com possível realização de horas extra a serem compensadas com banco de horas. Domingos e feriados em escala de plantão.Tipo de vaga: Tempo integral, Efetivo CLTPagamento: R$1.560,00 - R$2.200,00 por mêsBenefícios:Celular da empresaSeguro de vidaVale-refeiçãoVale-transporteHorário de trabalho:Dias úteis e finais de semanaTurno de 8 horasPagamento adicional:13º salárioBônusHora extraExperiência:Copeiro (Preferencial)",['Computer skills']
+Glassdoor,"https://www.glassdoor.com.br/job-listing/arque%C3%B3logo-grupo-energia-JV_IC2394263_KO0,10_KE11,24.htm?jl=1009417444686",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&tgt=APPLY_START&s=344&guid=0000019229117733ad3dff0ce10dac46&src=GD_JOB_VIEW&t=NS&vt=w&ea=1&cs=1_67c8004a&cb=1727265863643&jobListingId=1009417444686&jrtk=5-yul1-3-1i8kh2trg2nvp001,2024-09-23,,2024-09-25,Geoprocessamento,,Arqueólogo,Grupo Energia,"Ponta Grossa, Paraná",PR,,,,,1009417444686,"Responsabilidades:· Realizar estudos e pesquisas arqueológicas para identificação, preservação e análise de vestígios históricos e culturais em áreas de interesse.· Conduzir levantamentos de campo, incluindo escavações e coleta de amostras para análise.· Elaborar relatórios técnicos e laudos arqueológicos conforme as normas e exigências legais.· Auxiliar na preservação e conservação de materiais arqueológicos descobertos.· Conduzir estudos de impacto ambiental voltados para o patrimônio arqueológico.· Trabalhar em colaboração com outras equipes multidisciplinares (biólogos, geógrafos, historiadores, etc.) em projetos de pesquisa e de desenvolvimento.Requisitos:· Registro profissional ativo no IPHAN (Instituto do Patrimônio Histórico e Artístico Nacional).· Experiência comprovada em trabalhos de campo arqueológico, escavações e elaboração de relatórios.· Conhecimento das legislações vigentes relacionadas ao patrimônio cultural e arqueológico.· Habilidade para trabalhar em ambientes externos e em equipe multidisciplinar.· Disponibilidade para viagens e estadias em áreas de campo.· Boa capacidade de análise, síntese e redação técnica.· Conhecimento em softwares de mapeamento e geoprocessamento (desejável).Formação:· Formação superior completa em Arqueologia ou áreas afins.Benefícios:Vale-refeição no local do trabalho;Vale-alimentação.Tipo de vaga: Tempo integral, Efetivo CLTPagamento: R$0,10 - R$0,20 por mêsBenefícios:Vale-alimentaçãoVale-transporteHorário de trabalho:De segunda à sexta-feira",[]
+Glassdoor,"https://www.glassdoor.com.br/job-listing/pessoa-coordenadora-gest%C3%A3o-operacional-igu%C3%A1-saneamento-JV_IC2474002_KO0,38_KE39,54.htm?jl=1009417130343",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=000001922911af4a8c29ca055a6b203f&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_4f1af314&cb=1727265878009&jobListingId=1009417130343&jrtk=5-yul1-3-1i8kh3bsflvtl801,2024-09-22,,2024-09-25,Geoprocessamento,,Pessoa Coordenadora Gestão Operacional,Iguá Saneamento,"São José do Rio Preto, São Paulo",SP,,,,,1009417130343,"Ser a Melhor Empresa de Saneamento PARA o Brasil.
+Nascemos em 2017 com esse compromisso. Desde então, estamos presentes em 39 municípios, com mais de 2,5 mil colaboradores, 6 milhões de clientes e o propósito de atuar da melhor forma para levar saneamento às populações atendidas, ajudando o país a alcançar a universalização dos serviços de água e esgoto.
+O saneamento básico no Brasil está no momento de transformação e marcado por novos projetos de expansão. Para o nosso time, buscamos pessoas protagonistas e dispostas a inovar, atuando como agentes transformadores em prol do nosso objetivo. Alinhado ao nosso DNA, queremos promover um ambiente de trabalho sustentável, desenvolvedor e seguro.
+Local de Atuação: Atuação Híbrida, base CEI - São José do Rio Preto SP
+Responsabilidades e atribuições
+Responsabilidades e atribuições:
+Acompanhar os indicadores de tratamento de água e efluentes (lodo, consumo de energia, consumo de químicos, entre outros relacionados), cadastro técnico, coleta, distribuição e combate a perdas, produzindo planos de ação para normalização de eventuais desvios e atingimento das metas propostas.
+Manter os procedimentos operacionais de tratamento de água e efluentes, coleta, distribuição e coleta atualizados e de acordo com as melhores práticas sugeridas pela literatura e referências nacionais e internacionais.
+Elaborar e orientar colaboradores em estudos e projetos de melhoria da área, avaliando a viabilidade técnica, cooperando na análise dos custos, disponibilizando ou buscando dados que possam contribuir com as avaliações apresentada versus o orçado;
+Garantir e fazer cumprir as práticas seguras, ambientalmente corretas e com alta produtividade através do cumprimento das políticas de sustentabilidade e inovação para a operação e áreas sob sua responsabilidade;
+Otimizar o recurso financeiro da empresa aplicando suas habilidades técnicas seguindo normas, ABNT, NR's, fiscalizando e orientando nas atividades realizadas nas operações da Iguá.
+Elaborar treinamentos para atualização e reciclagem de temas técnicos ligados a cadastro técnico, tratamento de água e efluentes, coleta, distribuição e combate a perdas para a equipe e times das operações da Iguá
+Promover/participar de reuniões técnicas e de gestão, visando o alinhamento das rotinas da área e agendas institucionais junto aos principais stakeholders (prefeituras, agência reguladora, subcontratados etc.), visando correto alinhamento na execução das atividades sob sua responsabilidade.
+Coordenar a(s) área(s) sob sua responsabilidade, assegurando a correta administração de recursos financeiros, administrativos e de pessoal.
+Seguir as normas internas relacionadas as áreas de qualidade, meio ambiente, compliance, saúde e segurança do trabalho, dentre outras, em busca da melhoria contínua.
+Dirigir veículos da empresa em caso de necessidade de serviço externo, zelando pela segurança e normas de trânsito estabelecidas;
+
+Requisitos e qualificações
+Requisitos e qualificações:
+Ensino Superior Engenharia Civil, Manutenção, Sanitária ou áreas correlatas.
+Pacote Office com Excel e Power BI avançado
+Conhecimento das ferramentas de geoprocessamento (ArcGIS, QGIS, entre outros)
+Conhecimento das ferramentas de modelagem hidráulica (WaterGems, WaterCAD, EPANET, entre outros)
+Conhecimento das principais normas e referências na área de tratamento de água e esgoto
+CNH B
+Na Iguá Saneamento valorizamos a diferença em todos os contextos e trabalhamos para promover uma cultura ética e inclusiva sempre. Como companhia e time, buscamos a equidade e respeitamos todos os tipos de diversidade (Gênero, Deficiência - PCD, LGBTQIAPN+, Étnico racial, Crenças e Gerações). Venha fazer parte dessa mudança, acreditamos na força de cada individualidade para gerar transformação!
+Informações adicionais
+O que oferecemos
+Salário compatível com o mercado;
+Seguro de Vida;
+Plano de Saúde extensivo aos dependentes;
+Plano odontológico extensivo aos dependentes;
+Vale alimentação;
+Rede de benefícios e descontos;
+Serviço de telemedicina;
+Empréstimo Consignado;
+PLR.
+Há 5 anos nascemos com um desejo: ser a MELHOR empresa de saneamento PARA o Brasil.
+Desde então, atuamos nas cidades brasileiras através de 18 operações e com o forte propósito de proporcionar qualidade de vida e saúde à população atendida por meio de um serviço de qualidade na distribuição de água e de coleta, afastamento e tratamento de esgoto. Já possuímos mais de 7 milhões de clientes e o nosso direcionamento é focado nas necessidades dos mesmos e no desenvolvimento sustentável.
+Mais do que uma atividade empresarial, encaramos a universalização do saneamento básico como um compromisso de larga escala com a vida, as pessoas, o meio ambiente, os parceiros e o desenvolvimento sustentável do Brasil.
+O nosso jeito de ser é marcado pelo DNA inovador que proporciona um ambiente acolhedor, respeitoso e de muitos aprendizados, gerando grande impacto na sociedade. Já somos mais de 2.600 colaboradores e estamos expandindo em um ritmo acelerado e com perspectiva para muito mais!
+Você alguma vez já se perguntou sobre seu propósito e qual história quer escrever para a sua vida e carreira? Sempre sonhou em ter papel protagonista na sua carreira e impactar a vida de milhares de pessoas? Você pode fazer parte disso!
+﻿#VemSerIguá
+Vamos construir um futuro melhor, Iguá Saneamento.","['ArcGIS', 'Power BI', 'Continuous improvement', 'Security', 'Hydraulics', 'Water treatment']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/pl%C3%AAiade-agro-analista-ambiental-maisceo-vagas-JV_IC2500891_KO0,31_KE32,45.htm?jl=1009069783899",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=000001922911d98ca92f1abed25d75a9&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_3d7a0020&cb=1727265888932&jobListingId=1009069783899&jrtk=5-yul1-3-1i8kh3mee22rt001,2024-09-11,,2024-09-25,Geoprocessamento,,Plêiade Agro - Analista Ambiental,MAISCEO | VAGAS,"Palmas, Tocantins",TO,,,,,1009069783899,"Principais Atividades:
+Elaboração de estudos ambientais (Licenciamento);
+Análise em SIG e elaboração de mapas;
+Visitas Técnicas.
+Pré-requisitos desejáveis:
+Curso em Eng. Ambiental ou Agronômica, Geologia, Biologia e afins;
+Disponibilidade para viagens, CNH AB;
+Desejável conhecimento em ArcGis ou QGis;
+Noções básicas de geoprocessamento;
+Conhecimento de legislação e análise ambiental.
+Horários de trabalho:
+Segunda a sexta - Comercial
+Interessados enviar currículo com o título Analista Ambiental para:
+maisceovagas@gmail.com ou se cadastrar na plataforma",['ArcGIS']
+Glassdoor,"https://www.glassdoor.com.br/job-listing/ambipar-response-es-estagiario-a-administrativo-ambipar-response-es-sa-JV_IC2457828_KO0,47_KE48,70.htm?jl=1009430574711",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=000001922911f903a818380eaa0a523d&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_5e0e3544&cb=1727265896834&jobListingId=1009430574711&jrtk=5-yul1-3-1i8kh3u9gm22o801,2024-09-02,,2024-09-25,Geoprocessamento,,AMBIPAR RESPONSE ES - Estagiario(a) Administrativo,Ambipar Response ES S/A,"Vitória, Espírito Santo",ES,,,,,1009430574711,"Buscamos estudante de cursos das área de Administração, Recursos Humanos, Ciências Contábeis ou áreas relacionadas, com perfil organizado e orientado para tarefas para atuar em rotinas administrativas apoiando na mobilização de pessoas em projetos em todo Brasil.
+RP-1689
+Responsabilidades e atribuições
+
+Prestar apoio administrativo aos setores de backoffice;
+Organizar a documentação para mobilização de projetos;
+Compilar documentos conforme necessidades de clientes;
+Prestar suporte nas contratações e mobilização de pessoas;
+Realizar atendimentos e participar de reuniões de mobilizações de projeto;
+
+Requisitos e qualificações
+
+Cursando Administração de Empresas, Administração, Recursos Humanos, Ciências Contábeis ou áreas relacionadas, preferencialmente a partir do 4º período
+Disponibilidade para 30 horas semanais (presencial) - Horário flexível
+Residir na Grande Vitória/ES
+
+Informações adicionais
+Você contará ainda com estes benefícios:
+
+Bolsa Estágio no valor de R$ 1.100,00 para 30 horas semanais
+Vale Alimentação / Refeição e Vale Transporte sem descontos
+Seguro de Vida.
+A AMBIPAR RESPONSE ES S/A é um conglomerado de empresas, subsidiário da Ambipar Group, o qual tem como função dar suporte aos clientes nas áreas de Sustentabilidade, Meio Ambiente, Oceanografia, Geoprocessamento, Fornecimento de Mão de Obra Especializada, Sistema de Gerenciamento atuando de forma diferenciada e entregando soluções customizadas como uma plataforma GES - Global Environmental Solutions.
+Nossos dias são uma constante evolução e estamos sempre em busca do melhor.","['Accounting', 'Human resources']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/analista-de-geoprocessamento-j%C3%BAnior-estudos-municipais-netvagas-JV_IC2464122_KO0,54_KE55,63.htm?jl=1009452054948",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&s=344&guid=0000019229122b0ab7b52448597cb6c1&src=GD_JOB_VIEW&t=NS&vt=w&cs=1_e3a34823&cb=1727265909637&jobListingId=1009452054948&jrtk=5-yul1-3-1i8kh4aq0m22f801,2024-09-18,,2024-09-25,Geoprocessamento,,Analista de geoprocessamento júnior - estudos municipais,Netvagas,"São José dos Campos, São Paulo",SP,,,,,1009452054948,"Descrição:
+Superior completo em Geografia, Engenharia Cartográfica, Arquitetura, Tecnólogo em Geoprocessamento, Engenharia Florestal, Biologia, Engenharia Ambiental e áreas afins.
+Conhecimentos desejáveis: Noções de Cartografia.
+MS Office Básico.
+Noções básicas em ferramentas SIG (ArcGis, QGis, AutoCad, entre outros) e/ou ferramentas de processamento digital de imagem (PCI, PIX4D, entre outros).
+Noções de Banco de Dados Relacional.
+Inglês Básico.
+Conhecimento em legislação municipal é um diferencial
+Prestar apoio no planejamento executivo dos projetos na aquisição, tratamento e gerenciamento de informações de geoprocessamento e de qualidade, realizando o levantamento de informações técnicas e analisando os insumos necessários com base em aspectos qualitativos e quantitativos.
+Interpretar documentos para a especificação técnica (modelagem geográfica e representação temática) de componentes e requisitos de soluções de geoprocessamento.
+Produzir conteúdo geoespacial a partir da interpretação visual dos elementos disponíveis como insumo do projeto (ortofoto, foto de fachada, plantas de loteamento, etc)
+Monitorar o desenvolvimento dos processos de geoprocessamento, executando atividades técnicas de geração de imagens e de vetores controlando a qualidade dos produtos gerados, buscando garantir a conformidade do resultado com o que foi previsto no planejamento.
+Fornecer informações para melhoria dos processos de geração de produtos de imagem e vetores.
+Realizar comunicação via e-mail com cliente em todas as etapas do projeto.
+Acompanhamento e status report do projeto.
+Apoiar equipe na execução dos projetos.
+Estar engajado com a estratégia da empresa.
+Comunicar-se de forma efetiva com os superiores diretos de forma a diminuir os riscos do dia a dia.
+Zelar pelos processos de trabalho de forma a garantir a organização e confiabilidade de tudo que é produzido.
+Conhecer modelo de negócio da empresa e desdobramentos deste negócio no dia a dia das atividades.
+
+2409190202241128059","['ArcGIS', 'AutoCAD', 'English', 'Microsoft Office', 'Databases']"
+Glassdoor,"https://www.glassdoor.com.br/job-listing/estagi%C3%A1rio-em-gis-geoprocessamento-gisdeal-geotecnologias-e-consultoria-JV_IC2387909_KO0,34_KE35,71.htm?jl=1009327172790",www.glassdoor.com.br/Vaga/index.htm/partner/jobListing.htm?pos=101&ao=1136043&tgt=APPLY_START&s=344&guid=000001922912aeec8b073c83c478c2f0&src=GD_JOB_VIEW&t=NS&vt=w&ea=1&cs=1_3ddcece9&cb=1727265943420&jobListingId=1009327172790&jrtk=5-yul1-3-1i8kh5bpmia6g801,2024-09-17,,2024-09-25,Geoprocessamento,,Estagiário Em GIS (Geoprocessamento),Gisdeal Geotecnologias e Consultoria,Curitiba,PR,,,,,1009327172790,"Vaga de Estagiário de GIS (Geoprocessamento) na Gisdeal - Curitiba, PRA Gisdeal, uma empresa localizada em Curitiba, PR, está buscando Estagiários para integrar sua equipe. Se você é apaixonado por tecnologia e tem interesse em trabalhar com sistemas de Informações Geográficas como o ArcGIS, esta é uma excelente oportunidade para desenvolver suas habilidades em geotecnologias!Responsabilidades:Auxiliar na criação e manutenção de mapas usando o ArcGIS.Participar de projetos de análise espacial e visualização de dados geográficos.Colaborar com a equipe no desenvolvimento e customização de sistemas GIS.Requisitos:Estar cursando qualquer curso de graduação.Ter afinidade com tecnologias e interesse em geoinformação.Conhecimento básico do ArcGIS é desejável.Benefícios:Oportunidade de aprendizado e crescimento na área de GIS.Ambiente de trabalho colaborativo e inovador.Se você é apaixonado por geoinformação e deseja contribuir para projetos inovadores, envie seu currículo para a Gisdeal.com e faça parte de uma equipe comprometida com a análise espacial e o mapeamento inteligente!Tipo de vaga: Estágio / TraineeDuração do contrato: 6 mesesPagamento: R$800,00 - R$1.600,00 por mêsBenefícios:Vale-transporteHorário de trabalho:Turno de 8 horasPossibilidade de deslocamento/mudança de local:Curitiba - PR 81730310: Deslocar-se ou se mudar para o local da vaga antes de começar a trabalhar (Obrigatório)Pergunta(s) de seleção:Escreva um texto explicando porque voce se interessou ao cargo relacionado a geotecnologias e GIS.Escolaridade:Ensino Superior cursando ou interrompido (Obrigatório)Data de início prevista: 01/08/2024","['ArcGIS', 'Data visualization', 'GIS']"
